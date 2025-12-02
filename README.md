@@ -64,10 +64,9 @@
 
 <!-- Add your screenshots here -->
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="200">
-  <img src="screenshots/transactions.png" alt="Transactions" width="200">
-  <img src="screenshots/reports.png" alt="Reports" width="200">
-  <img src="screenshots/categories.png" alt="Categories" width="200">
+  <img src="screenshots/dashboard.jpg" alt="Dashboard" width="200">
+  <img src="screenshots/logi.jpg" alt="logi" width="200">
+  <img src="screenshots/categories.jpg" alt="Categories" width="200">
 </p>
 
 > 📸 _Screenshots coming soon_
